@@ -12,4 +12,4 @@ Searched city!!
 -Ajax
 
 
-Limk to to thid App https://github.com/MuhammadYousufHere/Weather-app.git
+Limk to to this Web https://github.com/MuhammadYousufHere/Weather-app.git
